@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.divCamStyle{
+  height:150px;
+  width: 150px;
+  border:5px solid red;
+  border-radius: 50%;
+  
+}
+
